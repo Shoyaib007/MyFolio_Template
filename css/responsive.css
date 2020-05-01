@@ -1,0 +1,282 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+    .full-nav .container {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+
+    }
+
+    .carousel-caption {
+        top: 3%;
+    }
+
+    .carousel-caption h2 {
+        font-size: 12px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 12px;
+    }
+
+    .carousel-caption h1 {
+        margin-top: 7px;
+        margin-bottom: 5px;
+        font-size: 14px;
+        letter-spacing: normal;
+    }
+
+    .carousel-caption .btn {
+
+        font-size: 14px;
+        width: 110px;
+        height: 30px;
+
+        font-weight: 700;
+        font-size: 12px;
+        margin-top: 16px !important;
+
+    }
+
+    .carousel-caption .bannerimg {
+        margin-top: 2px;
+    }
+
+    .art-top h4 {
+
+        font-size: 20px;
+    }
+
+    .art-top p {
+        line-height: 32px;
+    }
+
+    .art-top span {
+        font-size: 15px;
+    }
+
+    .title {
+        text-align: center !important;
+    }
+
+    .title h4 {
+
+        font-size: 22px;
+    }
+
+    .single-article {
+        text-align: center;
+    }
+
+    .single-article p {
+        font-size: 13px;
+        line-height: 20px;
+
+        width: 100%;
+    }
+
+    .my-work-cont h4 {
+
+        font-size: 20px;
+    }
+
+    .my-work-cont p {
+        line-height: 32px;
+    }
+
+
+    .contract-art h4 {
+
+        font-size: 20px;
+    }
+
+    .contract-art p {
+        line-height: 32px;
+    }
+
+    .footer-form form input {
+        margin-top: 41px;
+    }
+
+    .footer-form form .btn {
+        width: 180px;
+        height: 43px;
+    }
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+
+    .carousel-caption {
+        top: 25%;
+    }
+
+    .carousel-caption h2 {
+        font-size: 15px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 13px;
+    }
+
+    .carousel-caption h1 {
+        margin-top: 13px;
+        margin-bottom: 11px;
+        font-size: 16px;
+        letter-spacing: normal;
+    }
+
+    .carousel-caption .btn {
+
+        font-size: 14px;
+        width: 110px;
+        height: 30px;
+
+        font-weight: 700;
+        font-size: 12px;
+        margin-top: 19px !important;
+
+    }
+
+    .carousel-caption .bannerimg {
+        margin-top: 12px;
+    }
+
+    .art-top h4 {
+
+        font-size: 24px;
+    }
+
+    art-top p {
+        color: #7e8287;
+        font-size: 18px;
+        line-height: 41px;
+    }
+
+    .art-top span {
+
+        font-size: 21px;
+        color: #7e8287;
+        font-weight: 800;
+
+
+    }
+
+    .title {
+        text-align: center !important;
+    }
+
+    .title h4 {
+
+        font-size: 27px;
+    }
+
+    .single-art {
+        width: 100%;
+        margin: auto;
+        border: 0;
+        margin-left: 16%;
+    }
+    .single-art i{
+      
+   
+
+  
+    font-size: 30px;
+    margin-top: 30px;
+    }
+   
+
+    .single-article p{
+        text-align: center;
+        font-size: 15px;
+
+width: 100%;
+    }
+      .single-article{
+        
+          text-align: center;
+
+          margin-left: 87px;
+    }
+    
+  
+    
+    
+
+    .single-art p {
+
+    
+
+    font-size: 19px;
+    line-height: 21px;
+    width: 100%;
+    }
+    .single-article h4 {
+
+    font-size: 21px;
+    font-weight: 800;
+    }
+
+    .my-work-cont h4 {
+
+       font-size: 23px;
+    }
+
+    .my-work-cont p {
+        line-height: 32px;
+        font-size: 17px;
+    }
+
+
+    .contract-art h4 {
+
+      
+        font-size: 22px;
+    }
+
+    .contract-art p {
+        line-height: 32px;
+    }
+
+    .footer-form form input {
+        margin-top: 41px;
+    }
+
+    .footer-form form .btn {
+        width: 180px;
+        height: 43px;
+    }
+
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .carousel-caption h1 {
+    font-size:32px;
+    
+    }
+    .carousel-caption {
+    top: 20%;
+}
+    .single-article p{
+        width:100%;
+    }
+    
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .carousel-caption h1 {
+    font-size: 35px;
+    }
+    .carousel-caption {
+    top: 22%;
+}
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
